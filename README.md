@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Project is created as part of Yanhad Bootcamp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this bootcamp we focused mainly on JS language, however, we covered much more than this programming language. We learned and used Node.js, Express, ReactJS and SQL.
+During the course, the trainees learned in depth how to build a restful backend API and a front-end web app utilizing the SPA paradigm.
+We learned how to protect routes/endpoints with JWT (JSON Web Tokens), API testing with Postman, and how to implement user authentication (register and login users), a full CRUD (create, read, update, and delete), and our endpoints. We demonstrated how to integrate SPA with backend API to get a full web application. We learned how to construct the authorization and restrict certain resources of the app to be available for just authenticated users.
 
 ## Available Scripts
 
