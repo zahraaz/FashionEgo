@@ -1,4 +1,4 @@
-# Getting Project is created as part of Yanhad Bootcamp
+# This Project is created as part of Yanhad Bootcamp
 
 In this bootcamp we focused mainly on JS language, however, we covered much more than this programming language. We learned and used Node.js, Express, ReactJS and SQL.
 During the course, the trainees learned in depth how to build a restful backend API and a front-end web app utilizing the SPA paradigm.
